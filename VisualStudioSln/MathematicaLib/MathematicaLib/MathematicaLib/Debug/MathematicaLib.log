@@ -1,0 +1,10 @@
+﻿Build started 03/05/2016 11:34:38.
+     1>Project "C:\Users\Aboudi's\Desktop\VisualStudioSln\MathematicaLib\MathematicaLib\MathematicaLib\MathematicaLib.vcxproj" on node 2 (Build target(s)).
+     1>Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\Aboudi's\Desktop\VisualStudioSln\MathematicaLib\MathematicaLib\Debug\MathematicaLib.lib" /NOLOGO Debug\MathematicaLib.obj
+         MathematicaLib.vcxproj -> C:\Users\Aboudi's\Desktop\VisualStudioSln\MathematicaLib\MathematicaLib\Debug\MathematicaLib.lib
+     1>Done Building Project "C:\Users\Aboudi's\Desktop\VisualStudioSln\MathematicaLib\MathematicaLib\MathematicaLib\MathematicaLib.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.24
